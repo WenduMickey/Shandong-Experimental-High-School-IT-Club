@@ -1,0 +1,9 @@
+public class ITCkubDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       String name = "Mi Wenyuan"; //修改为你自己的姓名拼音
+       int classNum = 17; //你的班级
+       System.out.println("I am " + name + "In class"+ classNum);
+       System.out.print("Hello World!");
+	}
